@@ -2,17 +2,15 @@
 
 Code Samples and tasks using FP
 
-## Languages:
-1. Javascript
-
 ## How to run
 
-### Javascript
+### TypeScript
 You will need `NodeJS` to run. Check it with `$ node -v`
+
 To run the task:
 ```
-$ cd js
-$ node <task_name>.js
+$ cd ts
+$ node <task_name>.ts
 ```
 
 ## For the Contributors
